@@ -1,0 +1,31 @@
+html body{
+    background-color: #e0ffff;
+}
+
+.hometitle{
+    text-align: center;
+}
+
+.homeh1{
+    color: blueviolet;
+}
+
+.homeh2{
+    color: blueviolet;
+}
+
+/*_________________________________________________________*/
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+}
+
+h2{
+    color: brown;
+}
+
+.myname{
+    color: seagreen;
+}
